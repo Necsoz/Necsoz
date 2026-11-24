@@ -18,6 +18,26 @@ Busco minha primeira vaga em TI: **IA aplicada e automação**, ou **suporte e i
 - Automação de rotinas e planilhas (JavaScript, VBA, Python)
 - Ferramentas que economizam horas de trabalho manual
 
+### Ferramentas que criei no trabalho
+
+#### 📋 Renovação PME: renovação de contratos ocupacionais
+
+Automação do processo anual de renovação de contratos de saúde ocupacional para pequenas e médias empresas, que era manual, espalhado entre planilhas, sistema e e-mail, e sujeito a erro de cálculo e perda de prazo.
+
+- **Rotina em segundo plano:** lê os contratos, baixa vidas e exames, calcula o reajuste pelo índice do contrato e gera proposta e demonstrativo já conferidos
+- **Painel web em Kanban:** acompanha cada empresa até a renovação, cria rascunhos de e-mail para revisão humana, classifica respostas, confere assinaturas e agenda follow-ups
+- **Tempo por documento:** de 5–10 min (manual, um a um) para ~1 min
+- **Tecnologias:** Google Apps Script, Python, Google Sheets, Drive, Gmail e agente de IA
+- Controle de acesso por perfil e trilha de auditoria
+
+| Quadro Kanban | Detalhe da empresa |
+|---|---|
+| ![Quadro Kanban das renovações do mês](docs/renovacao-pme/kanban.png) | ![Detalhe da empresa com prévia da proposta](docs/renovacao-pme/detalhe-empresa.png) |
+| **Rascunho de e-mail** | **Proposta gerada** |
+| ![Rascunho do e-mail da proposta para revisão](docs/renovacao-pme/rascunho-email.png) | ![Proposta de renovação gerada](docs/renovacao-pme/proposta.png) |
+
+<sub>Prints feitos com dados fictícios.</sub>
+
 ### Projeto pessoal
 
 🎵 **[Mixteca](https://github.com/Necsoz/mixteca)**: organizador de músicas para Windows. Detecta BPM e tom (Camelot), completa tags e capas e organiza em pastas por gênero → BPM → tom. Python, PT/EN.
@@ -49,6 +69,26 @@ Looking for my first role in IT: **applied AI and automation**, or **support and
 - AI agents (such as Cursor) to create and iterate on tools and automations
 - Automating routines and spreadsheets (JavaScript, VBA, Python)
 - Tools that save hours of manual work
+
+### Tools I built at work
+
+#### 📋 PME Renewal: occupational health contract renewals
+
+Automates the yearly renewal of occupational health contracts for small and mid-sized companies, a process that used to be manual, scattered across spreadsheets, a management system and email, and prone to calculation errors and missed deadlines.
+
+- **Background routine:** reads the contracts, pulls headcount and exam data, applies the contract's price index and generates a checked proposal and statement
+- **Kanban web dashboard:** tracks each company until renewal, drafts emails for human review, classifies replies, checks signatures and schedules follow-ups
+- **Time per document:** from 5–10 min (manual, one by one) to ~1 min
+- **Stack:** Google Apps Script, Python, Google Sheets, Drive, Gmail and an AI agent
+- Role-based access control and audit trail
+
+| Kanban board | Company details |
+|---|---|
+| ![Kanban board of the month's renewals](docs/renovacao-pme/kanban.png) | ![Company details with proposal preview](docs/renovacao-pme/detalhe-empresa.png) |
+| **Email draft** | **Generated proposal** |
+| ![Proposal email draft for review](docs/renovacao-pme/rascunho-email.png) | ![Generated renewal proposal](docs/renovacao-pme/proposta.png) |
+
+<sub>Screenshots made with fictional data.</sub>
 
 ### Personal project
 

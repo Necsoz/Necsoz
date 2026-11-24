@@ -26,6 +26,10 @@ Busco minha primeira vaga em TI: **IA aplicada e automação**, ou **suporte e i
 
 Mapeio o processo com quem opera, defino as regras e a experiência de uso, e conduzo agentes de IA para construir. O código é feito com apoio de IA, e eu valido o resultado em casos reais.
 
+### 💬 Fale comigo
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Lucas%20G.%20Rei-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-g-rei777)
+
 📍 Brasil
 
 ---
@@ -53,5 +57,9 @@ Looking for my first role in IT: **applied AI and automation**, or **support and
 ### How I work
 
 I map the process with the people who run it, define the rules and the user experience, and steer AI agents to build. The code is written with AI assistance, and I validate the results on real cases.
+
+### 💬 Get in touch
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Lucas%20G.%20Rei-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-g-rei777)
 
 📍 Brazil

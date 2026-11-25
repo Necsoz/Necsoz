@@ -68,6 +68,12 @@ Automação do processo anual de renovação de contratos de saúde ocupacional 
 
 🎵 **[Mixteca](https://github.com/Necsoz/mixteca)**: organizador de músicas para Windows. Detecta BPM e tom (Camelot), completa tags e capas e organiza em pastas por gênero → BPM → tom. Python, PT/EN.
 
+| Conferir as músicas | Montar a organização |
+|---|---|
+| ![Lista com BPM e tom](https://github.com/Necsoz/mixteca/raw/master/docs/pt-2-conferir.png) | ![Ordem das pastas e prévia](https://github.com/Necsoz/mixteca/raw/master/docs/pt-3-organizar.png) |
+
+⬇️ [Baixar o instalador para Windows](https://github.com/Necsoz/mixteca/releases/latest)
+
 ### Como eu trabalho
 
 Mapeio o processo com quem opera, defino as regras e a experiência de uso, e conduzo agentes de IA para construir. O código é feito com apoio de IA, e eu valido o resultado em casos reais.
@@ -145,6 +151,12 @@ Automates the yearly renewal of occupational health contracts for small and mid-
 ### Personal project
 
 🎵 **[Mixteca](https://github.com/Necsoz/mixteca)**: a Windows music organizer. Detects BPM and key (Camelot), fills in tags and cover art, and organizes folders by genre → BPM → key. Python, PT/EN.
+
+| Review your tracks | Build the organization |
+|---|---|
+| ![List with BPM and key](https://github.com/Necsoz/mixteca/raw/master/docs/en-2-review.png) | ![Folder order and preview](https://github.com/Necsoz/mixteca/raw/master/docs/en-3-organize.png) |
+
+⬇️ [Download the Windows installer](https://github.com/Necsoz/mixteca/releases/latest)
 
 ### How I work
 

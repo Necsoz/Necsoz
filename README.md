@@ -20,6 +20,28 @@ Busco minha primeira vaga em TI: **IA aplicada e automação**, ou **suporte e i
 
 ### Ferramentas que criei no trabalho
 
+#### 🧰 Toolbox: central de automações para cadastro e precificação
+
+Central de automações para o cadastro e a precificação de exames ocupacionais. Roda dentro do sistema de gestão, aberta por um favorito do navegador, e faz sozinha tarefas que antes eram feitas tela a tela.
+
+- **Mais de 30 módulos:** credenciamento de clínicas (uma a uma ou em lote), renovação e reajuste, Mark-Up, geração de planilhas, cadastro e bases de conhecimento
+- **Execução segura:** botão PARAR, pausa e retomada, e conferência da tela antes de agir (se o sistema mudar, nada é feito)
+- **Tempo por cadastro de clínica:** de 3–7 min para ~1 min
+- **Renovação com 20–30 prestadores:** de 1 h a 2 h 30 (manual) para 20–30 min pela rotina da Toolbox, ou 1–5 min pela opção por planilha, recomendada quando há muitos prestadores
+- **Tecnologias:** JavaScript (bookmarklet) e RPA no navegador, ~34 mil linhas feitas com apoio de IA no Cursor
+
+| Menu principal | Planilhas |
+|---|---|
+| ![Menu da Toolbox com os módulos](docs/toolbox/menu.png) | ![Módulo de planilhas](docs/toolbox/planilhas.png) |
+| **Lote de solicitações** | **Andamento com botão de parar** |
+| ![Solicitações coladas para processar em lote](docs/toolbox/lote.png) | ![Credenciamento em massa em andamento](docs/toolbox/progresso.png) |
+| **Relatório do lote** | **Proteção contra mudanças no sistema** |
+| ![Relatório do lote com itens ignorados](docs/toolbox/relatorio.png) | ![Aviso de que a tela esperada não foi encontrada](docs/toolbox/protecao.png) |
+| **Configurações** | |
+| ![Configurações da Toolbox](docs/toolbox/configuracoes.png) | |
+
+<sub>Prints feitos com dados fictícios.</sub>
+
 #### 📋 Renovação PME: renovação de contratos ocupacionais
 
 Automação do processo anual de renovação de contratos de saúde ocupacional para pequenas e médias empresas, que era manual, espalhado entre planilhas, sistema e e-mail, e sujeito a erro de cálculo e perda de prazo.
@@ -75,6 +97,28 @@ Looking for my first role in IT: **applied AI and automation**, or **support and
 - Tools that save hours of manual work
 
 ### Tools I built at work
+
+#### 🧰 Toolbox: automation hub for registration and pricing
+
+An automation hub for registering and pricing occupational health exams. It runs inside the management system, launched from a browser bookmark, and does on its own tasks that used to be done screen by screen.
+
+- **30+ modules:** clinic onboarding (one at a time or in batches), renewals and price adjustments, Mark-Up, spreadsheet generation, registration and knowledge bases
+- **Safe execution:** STOP button, pause and resume, and a screen check before acting (if the system changes, nothing is done)
+- **Time per clinic registration:** from 3–7 min to ~1 min
+- **Renewal with 20–30 providers:** from 1 h–2 h 30 (manual) to 20–30 min with the Toolbox routine, or 1–5 min with the spreadsheet option, recommended when there are many providers
+- **Stack:** JavaScript (bookmarklet) and browser RPA, ~34k lines built with AI assistance in Cursor
+
+| Main menu | Spreadsheets |
+|---|---|
+| ![Toolbox menu with its modules](docs/toolbox/menu.png) | ![Spreadsheets module](docs/toolbox/planilhas.png) |
+| **Batch of requests** | **Progress with a stop button** |
+| ![Requests pasted for batch processing](docs/toolbox/lote.png) | ![Batch onboarding in progress](docs/toolbox/progresso.png) |
+| **Batch report** | **Protection against system changes** |
+| ![Batch report with skipped items](docs/toolbox/relatorio.png) | ![Warning that the expected screen was not found](docs/toolbox/protecao.png) |
+| **Settings** | |
+| ![Toolbox settings](docs/toolbox/configuracoes.png) | |
+
+<sub>Screenshots made with fictional data.</sub>
 
 #### 📋 PME Renewal: occupational health contract renewals
 

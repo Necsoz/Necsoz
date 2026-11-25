@@ -33,8 +33,12 @@ Automação do processo anual de renovação de contratos de saúde ocupacional 
 | Quadro Kanban | Detalhe da empresa |
 |---|---|
 | ![Quadro Kanban das renovações do mês](docs/renovacao-pme/kanban.png) | ![Detalhe da empresa com prévia da proposta](docs/renovacao-pme/detalhe-empresa.png) |
-| **Rascunho de e-mail** | **Proposta gerada** |
-| ![Rascunho do e-mail da proposta para revisão](docs/renovacao-pme/rascunho-email.png) | ![Proposta de renovação gerada](docs/renovacao-pme/proposta.png) |
+| **Etapas da renovação** | **Rascunho de e-mail** |
+| ![Etapas da renovação com o próximo passo](docs/renovacao-pme/etapas.png) | ![Rascunho do e-mail da proposta para revisão](docs/renovacao-pme/rascunho-email.png) |
+| **Resposta do cliente classificada** | **Trilha de auditoria** |
+| ![Resposta do cliente com sugestão de status e confiança](docs/renovacao-pme/resposta-cliente.png) | ![Log de auditoria com ações permitidas e negadas](docs/renovacao-pme/auditoria.png) |
+| **Proposta gerada** | **Demonstrativo de preço** |
+| ![Proposta de renovação gerada](docs/renovacao-pme/proposta.png) | ![Demonstrativo de formação de preço](docs/renovacao-pme/demonstrativo.png) |
 
 <sub>Prints feitos com dados fictícios.</sub>
 
@@ -85,8 +89,12 @@ Automates the yearly renewal of occupational health contracts for small and mid-
 | Kanban board | Company details |
 |---|---|
 | ![Kanban board of the month's renewals](docs/renovacao-pme/kanban.png) | ![Company details with proposal preview](docs/renovacao-pme/detalhe-empresa.png) |
-| **Email draft** | **Generated proposal** |
-| ![Proposal email draft for review](docs/renovacao-pme/rascunho-email.png) | ![Generated renewal proposal](docs/renovacao-pme/proposta.png) |
+| **Renewal steps** | **Email draft** |
+| ![Renewal steps with the next step highlighted](docs/renovacao-pme/etapas.png) | ![Proposal email draft for review](docs/renovacao-pme/rascunho-email.png) |
+| **Classified client reply** | **Audit trail** |
+| ![Client reply with suggested status and confidence](docs/renovacao-pme/resposta-cliente.png) | ![Audit log with allowed and denied actions](docs/renovacao-pme/auditoria.png) |
+| **Generated proposal** | **Pricing statement** |
+| ![Generated renewal proposal](docs/renovacao-pme/proposta.png) | ![Pricing statement](docs/renovacao-pme/demonstrativo.png) |
 
 <sub>Screenshots made with fictional data.</sub>
 

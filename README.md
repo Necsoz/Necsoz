@@ -14,7 +14,7 @@ Busco minha primeira vaga em TI: **IA aplicada e automação**, ou **suporte e i
 
 ### O que eu faço
 
-- Agentes de IA (como o Cursor) para criar e iterar ferramentas e automações
+- Agentes de IA para criar e iterar ferramentas e automações: Cursor (com modelos como Claude, GPT, Gemini e Grok), Claude, ChatGPT e Grok Bot
 - Automação de rotinas e planilhas (JavaScript, VBA, Python)
 - Ferramentas que economizam horas de trabalho manual
 
@@ -98,7 +98,7 @@ Looking for my first role in IT: **applied AI and automation**, or **support and
 
 ### What I do
 
-- AI agents (such as Cursor) to create and iterate on tools and automations
+- AI agents to create and iterate on tools and automations: Cursor (with models such as Claude, GPT, Gemini and Grok), Claude, ChatGPT and Grok Bot
 - Automating routines and spreadsheets (JavaScript, VBA, Python)
 - Tools that save hours of manual work
 
